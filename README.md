@@ -11,3 +11,11 @@
 ### PHP篇
 
 #### 第一章 初始PHP和面向对象编程
+
+#### 1.1 [初始PHP](https://github.com/DanileQin/daily-notes/blob/master/PHP/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E5%88%9D%E5%A7%8BPHP%E5%92%8C%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B/1.1%20%E5%88%9D%E5%A7%8BPHP.md)
+
+--------------------------------
+
+### 重学JS篇
+
+#### 1、手写一个new操作符
